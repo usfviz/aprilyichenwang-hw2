@@ -1,7 +1,7 @@
 # The below format took a reference on the followings:
 #   https://github.com/jcheng5/googleCharts
 #Install:
-#  devtools::install_github("jcheng5/googleCharts")
+devtools::install_github("jcheng5/googleCharts")
 library(googleCharts)
 
 # Use global max/min for axes so the view window stays
