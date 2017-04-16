@@ -2,7 +2,7 @@ library(reshape)
 library(dplyr)
 
 
-root<-'~'
+root<-'~/'
 file_le<-paste(root,'API_SP.DYN.LE00.IN_DS2_en_csv_v2/API_SP.DYN.LE00.IN_DS2_en_csv_v2.csv',sep='')
 file_fertility<-paste(root,'API_SP.DYN.TFRT.IN_DS2_en_csv_v2/API_SP.DYN.TFRT.IN_DS2_en_csv_v2.csv',sep='')
 file_meta<-paste(root,'API_SP.DYN.TFRT.IN_DS2_en_csv_v2/Metadata_Country_API_SP.DYN.TFRT.IN_DS2_en_csv_v2.csv',sep='')
