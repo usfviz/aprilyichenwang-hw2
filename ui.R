@@ -1,6 +1,7 @@
 # The below format took a reference on the followings:
 #   https://github.com/jcheng5/googleCharts
 #Install:
+require(libcurl)
 require(devtools)
 devtools::install_github("jcheng5/googleCharts")
 library(googleCharts)
